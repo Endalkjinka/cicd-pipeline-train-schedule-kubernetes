@@ -14,7 +14,9 @@ phases:
 artifacts:
   type: 
   files:
-      - "**/*"
+     - scripts/install_dependencies
+     - scripts/start_server
+     - "**/*"
   
 
    
