@@ -15,7 +15,6 @@ artifacts:
   type: 
   files:
       - "**/*"
-  Base-directory:
-      - "https://github.com/Endalkjinka/cicd-pipeline-train-schedule-kubernetes.git"
+  Base-directory: "https://github.com/Endalkjinka/cicd-pipeline-train-schedule-kubernetes.git"
 
    
