@@ -16,6 +16,8 @@ artifacts:
   files:
      - scripts/install_dependencies
      - scripts/start_server
+     - app.js
+     - cluster.yaml
      - "**/*"
   
 
